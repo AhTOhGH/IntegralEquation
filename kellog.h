@@ -4,7 +4,7 @@
 enum class EVariantCore
 {
 	eAnton,	//	Ядро Антона.
-	eAlena
+	eAlena	//	Ядро Алёны.
 };
 
 //	Класс вычисления интеграла методом Келлога.
