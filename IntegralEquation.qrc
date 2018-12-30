@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="IntegralEquation">
+    <file>Resources/integral-mathematical-sign.png</file>
+    <file>Resources/magnifier-target_46870.png</file>
+  </qresource>
+</RCC>
