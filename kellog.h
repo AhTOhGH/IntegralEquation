@@ -3,7 +3,7 @@
 //	Ядра
 enum class EVariantCore
 {
-	eAnton,
+	eAnton,	//	Ядро Антона.
 	eAlena
 };
 
