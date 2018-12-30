@@ -6,13 +6,14 @@ enum class EVariantCore
 	eAlena
 };
 
+//	РљР»Р°СЃСЃ РІС‹С‡РёСЃР»РµРЅРёСЏ РёРЅС‚РµРіСЂР°Р»Р° РјРµС‚РѕРґРѕРј РљРµР»Р»РѕРіР°.
 class CKellog
 {
 public:
 	CKellog(int nA_, int nB_, int nKolRazbieniy_, int nKolIterac_, double dTochnost_, EVariantCore var_);
 	~CKellog();
 
-	//	Функция расчёта. Возвращает собственное число.
+	//	Р¤СѓРЅРєС†РёСЏ СЂР°СЃС‡С‘С‚Р°. Р’РѕР·РІСЂР°С‰Р°РµС‚ СЃРѕР±СЃС‚РІРµРЅРЅРѕРµ С‡РёСЃР»Рѕ.
 	double Calculation();
 
 	QVector<double> GetvMu() { return vMu; }
