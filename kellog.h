@@ -1,5 +1,6 @@
 #include <QVector>
 
+//	Ядра
 enum class EVariantCore
 {
 	eAnton,
